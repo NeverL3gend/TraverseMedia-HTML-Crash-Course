@@ -1,0 +1,42 @@
+HTML Notes:
+
+HTML: Hyper Text Markup Language
+
+<br/> this is called a self closing tag, this is a xhtml tag.
+
+<!DOCTYPEhtml> is a telling the browser what type of file the browser is rendering
+
+Inline Elements
+-> do not start on a new line
+-> take only the necessary width
+
+Block Elements
+-> Start on a new line
+-> Take a full with available
+
+Block Level: <div>, <h1>-<h6>, <p>, <form>
+
+Inline Level: <span>, <img>, <a>
+
+Tag Attribute:
+
+Example:
+<tagname Attributename="Attributevalue">content</tagname>
+
+<h1 title='My Company">About Us</h1>
+
+-> All tags can have attributes
+-> Provide information about an element
+-> placed within the start tag
+-> key/value pairs (id='somthing')
+
+HTML Semantics tags
+
+A semantic element clearly describes its meaning to both the browser and the developer.
+-> Header
+-> Nav
+-> section
+-> article
+-> footer
+-> aside
+
